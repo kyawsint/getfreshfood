@@ -9,19 +9,14 @@ using System.Windows.Forms;
 
 namespace GFF
 {
-    public partial class PurchaseOrder : Form
+    public partial class ViewPurchaseInvoice : Form
     {
-        public PurchaseOrder()
+        public ViewPurchaseInvoice()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void PurchaseOrder_Load(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }
