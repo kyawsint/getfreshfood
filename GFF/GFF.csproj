@@ -58,6 +58,12 @@
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MaterialReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MaterialReceipt.Designer.cs">
+      <DependentUpon>MaterialReceipt.cs</DependentUpon>
+    </Compile>
     <Compile Include="NeedHelp.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,12 @@
     <Compile Include="PurchaseReturn.Designer.cs">
       <DependentUpon>PurchaseReturn.cs</DependentUpon>
     </Compile>
+    <Compile Include="ViewMaterialReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMaterialReceipt.Designer.cs">
+      <DependentUpon>ViewMaterialReceipt.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewPurchaseInvoice.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +126,9 @@
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MaterialReceipt.resx">
+      <DependentUpon>MaterialReceipt.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="NeedHelp.resx">
       <DependentUpon>NeedHelp.cs</DependentUpon>
     </EmbeddedResource>
@@ -137,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="PurchaseReturn.resx">
       <DependentUpon>PurchaseReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMaterialReceipt.resx">
+      <DependentUpon>ViewMaterialReceipt.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPurchaseInvoice.resx">
       <DependentUpon>ViewPurchaseInvoice.cs</DependentUpon>
