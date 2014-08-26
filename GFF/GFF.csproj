@@ -84,6 +84,12 @@
     <Compile Include="PurchaseOrder.Designer.cs">
       <DependentUpon>PurchaseOrder.cs</DependentUpon>
     </Compile>
+    <Compile Include="PurchaseReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseReturn.Designer.cs">
+      <DependentUpon>PurchaseReturn.cs</DependentUpon>
+    </Compile>
     <Compile Include="ViewPurchaseInvoice.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -95,6 +101,12 @@
     </Compile>
     <Compile Include="ViewPurchaseOrder.Designer.cs">
       <DependentUpon>ViewPurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPurchaseReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPurchaseReturn.Designer.cs">
+      <DependentUpon>ViewPurchaseReturn.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="ExpiryProductLists.resx">
       <DependentUpon>ExpiryProductLists.cs</DependentUpon>
@@ -123,11 +135,17 @@
     <EmbeddedResource Include="PurchaseOrder.resx">
       <DependentUpon>PurchaseOrder.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseReturn.resx">
+      <DependentUpon>PurchaseReturn.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ViewPurchaseInvoice.resx">
       <DependentUpon>ViewPurchaseInvoice.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ViewPurchaseOrder.resx">
       <DependentUpon>ViewPurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPurchaseReturn.resx">
+      <DependentUpon>ViewPurchaseReturn.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
