@@ -10,3 +10,22 @@ D:\ISS Workshop\github\GFF\GFF\obj\x86\Debug\GFF.NeedHelp.resources
 D:\ISS Workshop\github\GFF\GFF\obj\x86\Debug\GFF.ProductForm.resources
 D:\ISS Workshop\github\getfreshfood\GFF\obj\x86\Debug\GFF.exe
 D:\ISS Workshop\github\getfreshfood\GFF\obj\x86\Debug\GFF.pdb
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.exe
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.pdb
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\bin\Debug\GFF.exe
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\bin\Debug\GFF.pdb
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.csprojResolveAssemblyReference.cache
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ExpiryProductLists.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.LoginForm.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.MaterialReceipt.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.NeedHelp.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ProductForm.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.Properties.Resources.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.PurchaseInvoice.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.PurchaseOrder.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.PurchaseReturn.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ViewMaterialReceipt.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ViewPurchaseInvoice.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ViewPurchaseOrder.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.ViewPurchaseReturn.resources
+C:\Users\a0132516n\Downloads\getfreshfood\GFF\obj\x86\Debug\GFF.csproj.GenerateResource.Cache
